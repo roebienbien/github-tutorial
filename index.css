@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-section {
+  margin: auto;
+  padding: 50px 50px;
+}
+
+.hero-header {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  font-size: 3rem;
+}
+
+.hero-description {
+  margin-top: 40px;
+  font-size: 2rem;
+}
